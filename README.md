@@ -1,4 +1,4 @@
-# CS5481-RecommenderSystem
+# RecommenderSystem
 # Recommendation System Code Repository
 
 This code repository contains implementations of various recommendation algorithms and evaluation tools, supporting multiple datasets and evaluation metrics.
